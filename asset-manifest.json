@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rockbott0m/robofriends/static/css/main.d9d9d9db.chunk.css",
+    "main.js": "/rockbott0m/robofriends/static/js/main.e0d96a26.chunk.js",
+    "main.js.map": "/rockbott0m/robofriends/static/js/main.e0d96a26.chunk.js.map",
+    "runtime-main.js": "/rockbott0m/robofriends/static/js/runtime-main.e8cb2c35.js",
+    "runtime-main.js.map": "/rockbott0m/robofriends/static/js/runtime-main.e8cb2c35.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/rockbott0m/robofriends/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js": "/rockbott0m/robofriends/static/js/2.2f7a48c9.chunk.js",
+    "static/js/2.2f7a48c9.chunk.js.map": "/rockbott0m/robofriends/static/js/2.2f7a48c9.chunk.js.map",
+    "index.html": "/rockbott0m/robofriends/index.html",
+    "precache-manifest.a21c523932254d16740a0dbb8545b81d.js": "/rockbott0m/robofriends/precache-manifest.a21c523932254d16740a0dbb8545b81d.js",
+    "service-worker.js": "/rockbott0m/robofriends/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/rockbott0m/robofriends/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.d9d9d9db.chunk.css.map": "/rockbott0m/robofriends/static/css/main.d9d9d9db.chunk.css.map",
+    "static/js/2.2f7a48c9.chunk.js.LICENSE.txt": "/rockbott0m/robofriends/static/js/2.2f7a48c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rockbott0m/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8cb2c35.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js",
+    "static/css/main.d9d9d9db.chunk.css",
+    "static/js/main.e0d96a26.chunk.js"
+  ]
+}
